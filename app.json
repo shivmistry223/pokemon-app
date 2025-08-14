@@ -3,7 +3,7 @@
     "name": "pokemon-app",
     "slug": "pokemon-app",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/images/icon.png",
     "scheme": "pokemonapp",
     "userInterfaceStyle": "automatic",
