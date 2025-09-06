@@ -1,12 +1,12 @@
 import React from "react";
-import PokemonMain from "@/components/Pokemon/PokemonMain";
 import { Platform, SafeAreaView, StyleSheet } from "react-native";
+import RNForm from "@/components/RNForm/RNForm";
 
 export default function Index() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <PokemonMain />
+      <RNForm />
     </SafeAreaView>
   )
 }
