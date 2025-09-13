@@ -1,12 +1,12 @@
 import React from "react";
 import { Platform, SafeAreaView, StyleSheet } from "react-native";
-import RNForm from "@/components/RNForm/RNForm";
+import RNNetwork from "@/components/RNNetwork/RNNetwork";
 
 export default function Index() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <RNForm />
+      <RNNetwork />
     </SafeAreaView>
   )
 }
